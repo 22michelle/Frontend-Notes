@@ -1,0 +1,25 @@
+body {
+    background-color: #eeecec;
+}
+.point-Business {
+    color: rgba(171, 227, 140, 0.797);
+}
+
+.point-Social {
+    color: rgba(126, 201, 234, 0.726);
+}
+
+.point-Important {
+    color: rgba(231, 124, 124, 0.713);
+}
+
+.nav-pills .nav-link {
+    color: #060606;
+    
+}
+
+.nav-pills .nav-link:hover, .nav-tabs {
+    background-color: #d9230f;
+    color: white;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
