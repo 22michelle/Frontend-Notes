@@ -2,11 +2,11 @@
 
 <h3 align="center">Estudiante de programación de software</h3>
 
-## Despliegue 👉 https://scintillating-manatee-c88da8.netlify.app/#
+## Despliegue 👉 https://blocknotes-nine.vercel.app/
 
 ## Contáctame! 📞
 
-<p align="center">
+<p align="center"
       <br/>
       <a href="https://www.linkedin.com/in/michelle-mej%C3%ADa-parra-072148242/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
